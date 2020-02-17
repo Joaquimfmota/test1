@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,RTP 2 PT
-http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
 #EXTINF:-1,RTP 3 PT
 http://cdng.pubcdn.tn/iptv/ch2102?code=050131378299589
 #EXTINF:-1,RTP Memoria PT
