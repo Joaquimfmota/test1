@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PortugalV3",RTP 1 PT
+#EXTINF:-1 group-title="PortugalV4",RTP 1 PT
 http://htq.brasilia.me/iptv/ch2100?code=050131378299589
 #EXTINF:-1,RTP 2 PT
 http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
@@ -8,7 +8,7 @@ http://cdng.pubcdn.tn/iptv/ch2102?code=050131378299589
 #EXTINF:-1,RTP Memoria PT
 http://cdng.pubcdn.tn/iptv/ch2103?code=050131378299589
 #EXTINF:-1,SIC PT
-http://cdng.pubcdn.tn/iptv/ch2105?code=050131378299589
+https://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1,SIC Noticias PT
 http://cdng.pubcdn.tn/iptv/ch2106?code=050131378299589
 #EXTINF:-1,SIC Mulher PT
